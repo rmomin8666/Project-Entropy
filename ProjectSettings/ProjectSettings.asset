@@ -618,7 +618,10 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
-    Collab: 0
+    Build: 0
+    Collab: 1
+    ErrorHub: 0
+    Hub: 0
     UNet: 1
   luminIcon:
     m_Name: 
@@ -632,10 +635,10 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: 59f86d33-d6bc-4d34-8c1e-4490e7c1c529
+  cloudProjectId: da245615-d98f-4204-8e38-56fc027e9931
   framebufferDepthMemorylessMode: 0
-  projectName: Smash testing
-  organizationId: rmomin866
+  projectName: ProjectEntropy
+  organizationId: yoyosb
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
